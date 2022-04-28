@@ -1,2 +1,2 @@
 Bonjour Lucas
-<img src="/site/charte/images/tb/logo-realisaprint.svg?v1.1" alt="Realisaprint.com">
+<input type="text" id="desktop_search_value" name="LPGUITARS" placeholder="Rechercher un produit" class="ui-autocomplete-input" autocomplete="off">
