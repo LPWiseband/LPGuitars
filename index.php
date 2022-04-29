@@ -7,4 +7,5 @@ print "hello world ".time();
 hello world
 </body>
 </html> 
-
+$time = date('Y-m-d', ( time() ) );
+print "le jour est  ".$time;
